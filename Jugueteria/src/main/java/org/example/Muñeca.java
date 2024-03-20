@@ -2,6 +2,6 @@
 package org.example;
 
 public class Muñeca {
-    private boolean esUnaBarbie;
+    private boolean esUnaBarbie =false;
     
 }
