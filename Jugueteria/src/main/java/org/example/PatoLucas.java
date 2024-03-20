@@ -10,5 +10,5 @@ package org.example;
  * @author carba
  */
 public class PatoLucas {
-    
+    private String nombre;
 }
